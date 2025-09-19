@@ -14,11 +14,11 @@ CREATE TABLE employees (
 );
 
 INSERT INTO employees (name, department, role, salary) VALUES
-('Alice', 'IT', 'Engineer', 60000),
-('Bob', 'HR', 'Manager', 75000),
-('Charlie', 'IT', 'Manager', 80000),
-('David', 'Finance', 'Analyst', 55000),
-('Eve', 'IT', 'Engineer', 65000);
+('Aman', 'IT', 'Engineer', 60000),
+('Raman', 'HR', 'Manager', 75000),
+('Sofia', 'IT', 'Manager', 80000),
+('Ravi', 'Finance', 'Analyst', 55000),
+('Tanu', 'IT', 'Engineer', 65000);
 
 -- Queries
 -- 1. Employees in IT department
